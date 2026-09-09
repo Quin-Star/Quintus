@@ -1,0 +1,9 @@
+# 个人规划文档 —— 仅本地,不入库、不推送 GitHub
+/研一研二两年规划_科研与Agent就业.md
+
+# Python 常规忽略
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
